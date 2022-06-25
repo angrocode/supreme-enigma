@@ -1,2 +1,1 @@
-# supreme-enigma
-https://github.com/swagger-api/swagger-ui/issues/4402
+<div align="center"><h2>plugin for swagger authorizeIcons</h2></div>
